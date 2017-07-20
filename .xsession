@@ -1,0 +1,1 @@
+/home/elliot/.xmonad/bin/xsession
