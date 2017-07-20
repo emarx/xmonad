@@ -1,7 +1,0 @@
-[user]
-	email = elliot@havenmoney.com
-	name = Elliot Marx
-[core]
-	editor = vim
-[alias]
-	cm = commit -m
