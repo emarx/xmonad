@@ -1,7 +1,6 @@
 # xmonad-config
 xmonad-config is the [xmonad](http://xmonad.org/) configuration used by Vic Fryzel.
 
-
 ## Introduction
 
 If you are unfamiliar with xmonad, it is a tiling window manager that is
@@ -50,6 +49,8 @@ For source code, or to contribute, see the
         suckless-tools scrot cabal-install xcompmgr
     sudo cabal update
     sudo cabal install --global yeganesh
+    
+### YOU NEED AN XSESSIONRC file!!!
 
 ## Installation
 
